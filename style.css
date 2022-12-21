@@ -1,0 +1,22 @@
+header.Cabecera{
+    text-align: center;
+}
+nav.Nav{
+    background-color: blue;
+}
+div.Direccion{
+    display: inline-block;
+}
+div.Video1{
+    display: inline-block;
+}
+div.Video2{
+    display: inline-block;
+}
+footer.Pie{
+    background-color: aqua;
+    text-align: center;
+}
+span.NyF{
+    color: white;
+}
