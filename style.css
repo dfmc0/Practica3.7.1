@@ -3,6 +3,7 @@ header.Cabecera{
 }
 nav.Nav{
     background-color: blue;
+    color: blue;
 }
 div.Direccion{
     display: inline-block;
